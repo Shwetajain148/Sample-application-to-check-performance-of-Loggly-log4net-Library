@@ -1,0 +1,9 @@
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\bin\Debug\log4net-loggly.dll
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\bin\Debug\log4net-loggly.pdb
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\bin\Debug\log4net.dll
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\bin\Debug\log4net.xml
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\obj\Debug\log4net-loggly.csprojResolveAssemblyReference.cache
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\obj\Debug\log4net-loggly.dll
+C:\Users\PSQIT\Documents\Visual Studio 2012\Projects\CalculateThroughput\log4net-loggly\source\log4net-loggly\obj\Debug\log4net-loggly.pdb
